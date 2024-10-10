@@ -1,0 +1,12 @@
+name,price,quantity,brand,category,entry_date
+Laptop,1000,10,Apple,Office,2021-01-01
+Mouse,20,50,Logitech,Office,2021-01-01
+Keyboard,50,30,Logitech,Office,2021-01-01
+Monitor,200,20,Asus,Office,2021-01-01
+Tablet,500,15,Apple,Electronics,2021-01-01
+Tablet,500,15,Wawei,Electronics,2021-01-01
+Microphone,100,10,Blue,Electronics,2021-01-01
+Charge,10,100,Apple,Accessories,2021-01-01
+Battery,5,200,Apple,Accessories,2021-01-01
+USB,5,200,Apple,Office,2021-01-01
+Smartphone,800,10,Apple,Electronics,2021-01-01

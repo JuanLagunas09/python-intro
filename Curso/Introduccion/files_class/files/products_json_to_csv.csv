@@ -1,0 +1,6 @@
+name,price,quantity,brand,category,entry_date
+product1,100,10,brand1,category1,2021-01-01
+product2,200,20,brand2,category2,2021-01-02
+product3,300,30,brand3,category3,2021-01-03
+product4,400,40,brand4,category4,2021-01-04
+product,100,40,brand,category,2021-01-01

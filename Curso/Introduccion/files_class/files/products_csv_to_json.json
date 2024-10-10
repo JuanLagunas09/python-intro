@@ -1,0 +1,90 @@
+[
+    {
+        "name": "Laptop",
+        "price": "1000",
+        "quantity": "10",
+        "brand": "Apple",
+        "category": "Office",
+        "entry_date": "2021-01-01"
+    },
+    {
+        "name": "Mouse",
+        "price": "20",
+        "quantity": "50",
+        "brand": "Logitech",
+        "category": "Office",
+        "entry_date": "2021-01-01"
+    },
+    {
+        "name": "Keyboard",
+        "price": "50",
+        "quantity": "30",
+        "brand": "Logitech",
+        "category": "Office",
+        "entry_date": "2021-01-01"
+    },
+    {
+        "name": "Monitor",
+        "price": "200",
+        "quantity": "20",
+        "brand": "Asus",
+        "category": "Office",
+        "entry_date": "2021-01-01"
+    },
+    {
+        "name": "Tablet",
+        "price": "500",
+        "quantity": "15",
+        "brand": "Apple",
+        "category": "Electronics",
+        "entry_date": "2021-01-01"
+    },
+    {
+        "name": "Tablet",
+        "price": "500",
+        "quantity": "15",
+        "brand": "Wawei",
+        "category": "Electronics",
+        "entry_date": "2021-01-01"
+    },
+    {
+        "name": "Microphone",
+        "price": "100",
+        "quantity": "10",
+        "brand": "Blue",
+        "category": "Electronics",
+        "entry_date": "2021-01-01"
+    },
+    {
+        "name": "Charge",
+        "price": "10",
+        "quantity": "100",
+        "brand": "Apple",
+        "category": "Accessories",
+        "entry_date": "2021-01-01"
+    },
+    {
+        "name": "Battery",
+        "price": "5",
+        "quantity": "200",
+        "brand": "Apple",
+        "category": "Accessories",
+        "entry_date": "2021-01-01"
+    },
+    {
+        "name": "USB",
+        "price": "5",
+        "quantity": "200",
+        "brand": "Apple",
+        "category": "Office",
+        "entry_date": "2021-01-01"
+    },
+    {
+        "name": "Smartphone",
+        "price": "800",
+        "quantity": "10",
+        "brand": "Apple",
+        "category": "Electronics",
+        "entry_date": "2021-01-01"
+    }
+]

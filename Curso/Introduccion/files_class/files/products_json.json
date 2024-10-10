@@ -1,0 +1,42 @@
+[
+    {
+        "name": "product1",
+        "price": 100,
+        "quantity": 10,
+        "brand": "brand1",
+        "category": "category1",
+        "entry_date": "2021-01-01"
+    },
+    {
+        "name": "product2",
+        "price": 200,
+        "quantity": 20,
+        "brand": "brand2",
+        "category": "category2",
+        "entry_date": "2021-01-02"
+    },
+    {
+        "name": "product3",
+        "price": 300,
+        "quantity": 30,
+        "brand": "brand3",
+        "category": "category3",
+        "entry_date": "2021-01-03"
+    },
+    {
+        "name": "product4",
+        "price": 400,
+        "quantity": 40,
+        "brand": "brand4",
+        "category": "category4",
+        "entry_date": "2021-01-04"
+    },
+    {
+        "name": "product",
+        "price": 100,
+        "quantity": 40,
+        "brand": "brand",
+        "category": "category",
+        "entry_date": "2021-01-01"
+    }
+]
